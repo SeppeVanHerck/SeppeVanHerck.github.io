@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Project: Recipe book</title>
+        <meta charset="utf-8">
+        <style>
+    body{
+     background-color:yellow;
+        
+    }
+     h1 {
+         color:green;
+         
+     }
+     h2 {
+         color:red;
+     }
+     th {
+         color:red;
+     }
+    
+        </style>
+    </head>
+    <body>
+       
+        <h1>Seppe's Recipe Book</h1>
+        
+        <h2>Contents:</h2>
+        
+        <a name="Recipe: Croque Madame"></a>
+        <a href="#Recipe: Croque Madame">Spring naar recept 1</a>
+        <a name="Recipe#2: Croque Monsieur"></a>
+        <a href="#Recipe#2: Croque Monsieur">Spring naar recept 2</a>
+        <a name="Recipe#3: Choco mousse(voor 4 personen)"></a>
+        <a href="#Recipe#3: Choco mousse(voor 4 personen)">Spring naar Recept 3</a>
+        
+        
+        <h2 id="contents">Recipe: Croque Madame</h2>
+        
+        <ul>
+            <li>Time: 2 minutes</li>
+            <li>Serves: _</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>bread</td>
+                <td> 2 for 1 croque madam</td>
+            </tr>
+            <tr>
+                <td> eggs</td>
+                <td> you can chose i pick 2</td>
+                
+            </tr>
+            <tr>
+                <td>cheese</td>
+                <td> 1 slice</td>
+            </tr>
+            <tr>
+                <td>ham</td>
+                <td>1 slice</td>
+            </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> .
+        pak alle ingrediënten</p>
+     <p><strong> Step 2:</strong>leg op een boterham een plakje kaas en een snee ham</p>
+     <p><strong>Step 3:</strong> pak een pan en bak een spiegelei</p>
+     <p><strong> Step 4:</strong> leg de boterham tussen het croque ijzer</p>
+     <p><strong>Step 5:</strong> als alles klaar is leg je het spiegelei op de croque monsieur en dan heb je een croque madame </p>
+
+
+        
+    <p><em>Source: <a href="https://www.lekkervanbijons.be/feestelijke-hoofdgerechten-om-mee-te-scoren">Some recipes websites</a></em></p>
+     <h3 id="contents">Recipe#2:croque monsieur</h3>
+     <ul>
+            <li>Time: 2 minutes</li>
+            <li>Serves: _</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>bread</td>
+                <td> 2 for 1 croque monsieur</td>
+            </tr>
+          
+            <tr>
+                <td>cheese</td>
+                <td> 1 slice</td>
+            </tr>
+            <tr>
+                <td>ham</td>
+                <td>1 slice</td>
+            </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> .
+        pak alle ingrediënten</p>
+     <p><strong> Step 2:</strong>leg op een boterham een plakje kaas en een snee ham</p>
+     <p><strong> Step 3:</strong> leg de boterham tussen het croque ijzer</p>
+     <p><strong>Step 4:</strong> geniet van u croque monsieur( je kan het eten met saus bv:mayo of ketchup) </p>
+
+<h4 id="contents">Recipe#3:Choco mousse(voor 4 personen)</h4>
+
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>pure chocolade</td>
+                <td>  200 gram</td>
+            </tr>
+            <tr>
+                <td> eierdooiers</td>
+                <td> 6</td>
+                
+            </tr>
+            <tr>
+                <td>eiwitten</td>
+                <td> 6</td>
+            </tr>
+            <tr>
+                <td>suiker</td>
+                <td>250 gram</td>
+            </tr>
+            <tr>
+                <td>vanille stokje</td>
+                <td>1</td>
+            </tr>
+            <tr>
+                <td>room</td>
+                <td>375 gram</td>
+            </tr>
+            <tr>
+                <td>melk</td>
+                <td>500 ml</td>
+            </tr>
+            <tr>
+                <td>eigelen</td>
+                <td>4</td>
+            </tr>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong> .
+        Smelt de chocolade au bain marie. Verhit water in een kookpot en plaats hierin een tweede pot. Gebruik die om de chocolade rustig te laten smelten.</p>
+     <p><strong> Step 2:</strong>Scheid de dooiers en de eiwitten.</p>
+     <p><strong>Step 3:</strong> Doe de eigelen in een grote mengkom, en klop ze los samen met de suiker. Hiervoor kan je een keukenrobot of handmixer gebruiken. Giet de suiker in delen bij het dooiermengsel. Klop alles tot er een schuimige bleke massa ontstaat.</p>
+     <p><strong> Step 4:</strong> Giet de gesmolten chocolade bij het eiermengsel. Spatel alles door mekaar.</p>
+     <p><strong>Step 5:</strong> In een zeer propere en vetvrije mengkom klop je de eiwitten tot een vast schuim. Een perfecte chocolademousse moet zo luchtig mogelijk zijn! </p>
+     <p><strong>Step 6:</strong>
+Spatel het eiwitschuim voorzichtig en geduldig onder het chocolademengsel. Voeg het eiwit in delen toe!</p>
+<p><strong>Step 7:</strong>Schenk de room in een mengbeker en klop deze half op. Het mag geen slagroom worden</p>
+<p><strong>Step 8:</strong>Spatel de luchtige room door het mengsel.
+
+Giet vervolgens alles over in een serveerschaal en laat de mousse enkele uren opstijven in de koelkast.</p>
+<p><strong>Step 9:</strong>Breng de melk aan de kook, samen met de vanillestok. Snij de vanillepeul overlangs door en schraap er met een mespunt de zaadjes uit. Laat zowel de zaadjes als de peul meekoken. Zet de melk daarna op een matig vuurtje.</p>
+<p><strong>Step 10:</strong>We herhalen nu een bewerking die we ook voor de mousse gebruikten. Doe de eigelen in een grote mengkom, en klop ze los samen met de suiker. Hiervoor kan je een keukenrobot of handmixer gebruiken. Giet de suiker in delen bij het dooiermengsel. Klop alles tot er een schuimige bleke massa ontstaat, een 'ruban'.</p>
+<p><strong>Step 11:</strong>Verwijder de vanillepeul, en giet een klein deel van de hete melk bij het suiker-eigeel-mengsel. Klop alles met een garde tot een egale saus.
+
+Zet de pan met de rest van de vanillemelk op een zacht vuurtje. De melk mag niet koken! Giet het mengsel van eigeel en suiker bij de warme melk. Blijf geduldig roeren tot de saus bindt.</p>
+<p><strong>Step 12&13:</strong>
+Doe de lepeltest: de crème anglaise is voldoende gebonden als een vingerveeg een spoor achterlaat op de lepel.
+
+Giet de crème in een schaal en laat ze een uurtje afkoelen in de koelkast.</p>
+<p><strong>DE AFWERKING:</strong>Schep een spiegel vanillesaus op de bodem van een plat bord.
+
+Dompel een eetlepel even in warm water en rol nu een mooie bol chocolademousse uit de kom.
+
+Rasp eventueel wat chocolade over het dessert, om het extra af te werken.</p>
+    
+    </body>
+</html>
